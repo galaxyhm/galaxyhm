@@ -1,9 +1,14 @@
 ## Hi there 👋
 I'm interested in DevOps.
-
+<span>
 Currently I earned these certificated.
+</span>
+<span>
 [![CKA](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/c6bcd970-4980-4b55-9c1e-1e31775ac633/public_url)
+</span>
+<span>
 [![CKAD](https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/58c2ba35-7ae6-4ab2-af12-db90b8ead548/public_url)
+</span>
 <!--
 **galaxyhm/galaxyhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
